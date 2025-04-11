@@ -118,22 +118,4 @@ Diffusion Samples
 🤝 Contributing
 
 Pull requests welcome! For major changes, please open an issue first to discuss proposed changes.
-📄 License
 
-MIT License - see LICENSE for details
-Copy
-
-
-This README provides:
-- Clear structure for different implementations
-- Visual placeholder links for generated images
-- Concise setup/usage instructions
-- Technical context for each approach
-- References to original papers
-- Contribution guidelines
-
-You may want to:
-1. Replace placeholder image URLs with actual generated samples
-2. Add real performance metrics from your training runs
-3. Include more detailed architecture diagrams
-4. Add hardware requirements/benchmarks
